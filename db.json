@@ -1,9 +1,7 @@
 {
   "busca-raca": [
-    { "id": 1, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "idVet":1, "nomeVet":"Marco", "idAnimal":1, "nomeAnimal":"Harry"},
-	{ "id": 2, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "idVet":2, "nomeVet":"Antonio", "idAnimal":2, "nomeAnimal":"Pitucho"},
-	{ "id": 3, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "idVet":3, "nomeVet":"Pereira", "idAnimal":3, "nomeAnimal":"Solineuza"},
-	{ "id": 4, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "idVet":4, "nomeVet":"Araujo", "idAnimal":4, "nomeAnimal":"Fofinho"},
-	{ "id": 5, "data": "01/01/2025", "orientacoes":"sem orientações", "status": "Marcado", "idVet":5, "nomeVet":"Marcão", "idAnimal":5, "nomeAnimal":"Rex"}
+    { "id": 1, "especies": [{"id": 1, "nome": "Poodle"}, {"id": 1, "nome": "SRD"}]},
+	{ "id": 2, "especies": [{"id": 1, "nome": "Siamês"}, {"id": 2, "nome": "Laranja"}]},
+	{ "id": 5, "especies": [{"id": 1, "nome": "Beta"}]}
   ]
 }
