@@ -2,7 +2,7 @@
   "busca-raca": [
 	{ "id": 1, "nome":"Cachorro", "lista": [{"id": 1,"nome": "Poodle"}, {"id": 2, "nome": "SRD"}]},
 	{ "id": 2, "nome":"Gato", "lista": [{"id": 1, "nome": "Siamês"}, {"id": 2, "nome": "Laranja"}]},
-	{ "id": 3, "nome":"Ave", "lista": [{"id": 1, "nome": "Siamês"}, {"id": 2, "nome": "Laranja"}]},
+	{ "id": 3, "nome":"Ave", "lista": [{"id": 1, "nome": "Calopsita"}, {"id": 2, "nome": "Papagaio"}]},
 	{ "id": 4, "nome":"Cobra", "lista": [{"id": 1, "nome": "Cobra do Milho"}, {"id": 2, "nome": "Píton Bola"}]},
 	{ "id": 5, "nome":"Peixe", "lista": [{"id": 1, "nome": "Beta"},{"id": 2, "nome": "Peixe-zebra"}]}
   ]
