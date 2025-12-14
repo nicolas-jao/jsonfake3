@@ -1,7 +1,7 @@
 {
   "busca-raca": [
-	{ "id": 1, "lista": [{"id": 1,"nome": "Poodle"}, {"id": 2, "nome": "SRD"}]},
-	{ "id": 2, "lista": [{"id": 3, "nome": "Siamês"}, {"id": 4, "nome": "Laranja"}]},
-	{ "id": 5, "lista": [{"id": 5, "nome": "Beta"}]}
+	{ "id": 1, "nome":"Cachorro", "lista": [{"id": 1,"nome": "Poodle"}, {"id": 2, "nome": "SRD"}]},
+	{ "id": 2, "nome":"Gato", "lista": [{"id": 3, "nome": "Siamês"}, {"id": 4, "nome": "Laranja"}]},
+	{ "id": 5, "nome":"Peixe", "lista": [{"id": 5, "nome": "Beta"}]}
   ]
 }
